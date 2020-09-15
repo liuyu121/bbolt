@@ -1,5 +1,5 @@
-*.prof
-*.test
+.idea
+.gdbinit
 *.swp
-/bin/
-cover.out
+*.swo
+logs
